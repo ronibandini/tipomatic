@@ -7,3 +7,8 @@ Api de OpenAI https://platform.openai.com/
 
 # Instalación
 Cargar el API Key en el código, copiar el script Python tipomatic.py y la carpeta /images al Unihiker, ejecutar $ python tipomatic.py
+
+# Contacto
+Por cotización de proyectos Arduino y Raspberry 
+https://x.com/RoniBandini
+https://www.instagram.com/ronibandini/
